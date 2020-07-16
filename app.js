@@ -3,7 +3,7 @@ const logger = require("morgan");
 
 const indexRouter = require("./routes/index");
 const chargeRouter = require("./routes/api/charge/charge");
-const chargeStatusesRouter = require("./routes/api/charge-statuse/charge-statuses");
+const chargeStatusesRouter = require("./routes/api/charge-statuses/charge-statuses");
 const app = express();
 
 const BASE_URL = "/api";

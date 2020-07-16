@@ -1,4 +1,4 @@
-# Welcome Charge server!
+# Welcome to Charge server!
 
 A system to charge credit cards, and manage the fail transactions 
 ### Installation
